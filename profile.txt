@@ -1,0 +1,3 @@
+name : Tarwin Suayroop
+nickname : Noah
+age : 20
